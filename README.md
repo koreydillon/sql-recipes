@@ -1,5 +1,7 @@
 # sql-recipes
 
+[![CI](https://github.com/koreydillon/sql-recipes/actions/workflows/ci.yml/badge.svg)](https://github.com/koreydillon/sql-recipes/actions/workflows/ci.yml)
+
 Six SQL patterns I reach for on real data engineering work. Each file is a self-contained DuckDB script with synthetic data and a verification query, so you can run it without any setup beyond installing DuckDB.
 
 ## Why these patterns
